@@ -1,6 +1,6 @@
 # Hi, I'm Deepak Chaurasia👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=DeepakChaurasia30&color=dc143c)
 <!--
 **DeepakChaurasia30/DeepakChaurasia30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
