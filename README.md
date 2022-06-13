@@ -13,4 +13,4 @@
 
 
 
-<p align="center"><a href="https://komarev.com/ghpvc/?username=DeepakChaurasia30&color=dc143c"></a></p>
+![](https://komarev.com/ghpvc/?username=DeepakChaurasia30&color=dc143c)
