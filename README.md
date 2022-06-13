@@ -7,6 +7,10 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=DeepakChaurasia30&show_icons=true&bg_color=0d1117&hide_border=true&title_color=589ff4&text_color=c9d1d9&icon_color=c9d1d9)
+<p align="center"><img width="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"></p>
+<p align="center"><a href="https://github.com/DeepakChaurasia30"><img src="https://github-readme-stats.vercel.app/api?username=DeepakChaurasia30&show_icons=true&theme=highcontrast"></a></p>
+<p align="center"><a href="https://github.com/DeepakChaurasia30"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakChaurasia30&theme=highcontrast&layout=compact"></a></p>
+
+
 
 ![](https://komarev.com/ghpvc/?username=DeepakChaurasia30&color=dc143c)
