@@ -2,17 +2,15 @@
 
 
 
-**Hi, I'm Deepak Chaurasia 👋**
+## Hi, I'm Deepak Chaurasia 👋
 
-📱 I’m currently a Student 👋🏾‍👨‍💻.
+- 📱 I’m currently a Student 👋🏾‍👨‍💻.
 
-🤓 I’m currently learning Android Development, Some Programming Languages.
+- 🤓 I’m currently learning Android Development, Some Programming Languages.
 
-🎮 Fun fact: I believe that mistakes are just opportunities to learn and grow!
+- 🎮 Fact: I believe that mistakes are just opportunities to learn and grow!
 
-<p align="center"><img width="500" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"></p>
-
-**GitHub Statistics**
+ ## GitHub Statistics
 
 <p align="center">
 
@@ -38,25 +36,12 @@
 
 </p>
 
-<p align="center">
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=DeepakChaurasia30&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-
-</p>
-
-**Development Activity**
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeepakChaurasia30&layout=compact&theme=midnight-purple&langs_count=6" alt="WakaTime" />
-
-</p>
 
 **Connect with Me**
 
 <p align="center">
 
-  <a href="[https://www.linkedin.com/in/deepak-chaurasia-08b79024a]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
+  <a href="https://www.linkedin.com/in/deepak-chaurasia-08b79024a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
 
   <a href="mailto: chaurasia.deepak.300@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=red"></a>
 
